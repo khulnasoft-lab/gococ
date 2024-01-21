@@ -1,0 +1,14 @@
+package: github.com/Khulnasoft-lab/gococ
+
+import:
+  # Use 'go get' to fetch a package:
+  #- package: github.com/Khulnasoft-lab/gococ
+  # Get and manage a package with Git:
+  #- package: github.com/Khulnasoft-lab/gococ
+  #  # The repository URL
+  #  repo: git@github.com:Khulnasoft-lab/gococ.git
+  #  # A tag, branch, or SHA
+  #  ref: 1.1.0
+  #  # the VCS type (compare to bzr, hg, svn). You should
+  #  # set this if you know it.
+  #  vcs: git
